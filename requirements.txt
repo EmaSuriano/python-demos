@@ -1,0 +1,16 @@
+# Core modules (mandatory)
+jupyterlite-core
+jupyterlab
+notebook
+
+# kernel
+jupyterlite-pyodide-kernel
+
+# themes
+jupyterlab-night
+
+
+# external deps
+seaborn
+pandas
+plotly
