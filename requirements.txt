@@ -12,5 +12,5 @@ jupyterlab-night
 
 # external deps
 seaborn
-pandas
-plotly
+plotly>=5,<6
+bqplot
