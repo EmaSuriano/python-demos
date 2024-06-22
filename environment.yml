@@ -4,8 +4,9 @@ channels:
   - conda-forge
 dependencies:
   - xeus-python
-  - ipycanvas
   - numpy
   - pandas
-  - plotly
+  - matplotlib
   - seaborn
+  - nbformat
+  - plotly
