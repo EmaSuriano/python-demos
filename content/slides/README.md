@@ -1,7 +1,7 @@
 ## Generating slides
 
 ```bash
-> jupyter nbconvert 'slides.ipynb' --to slides --post serve
+> jupyter nbconvert 'demo.ipynb' --to slides --post serve
 ```
 
 To change the theme you can pass the following option:
