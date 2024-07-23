@@ -1,4 +1,4 @@
-name: xeus-python-kernel
+name: jupyterlite-pyodide-kernel
 channels:
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
@@ -10,3 +10,4 @@ dependencies:
   - seaborn
   - nbformat
   - plotly
+  - opencv-python
